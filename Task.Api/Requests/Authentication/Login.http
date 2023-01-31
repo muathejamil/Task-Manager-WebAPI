@@ -1,0 +1,9 @@
+﻿### 
+
+POST http://localhost:5222/auth/v1/Authentications/login
+Content-Type: application/json
+
+{
+  "email": "muathe@gmail.com",
+  "password": "123123"
+}

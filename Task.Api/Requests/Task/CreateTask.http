@@ -1,0 +1,23 @@
+﻿# curl -X 'POST' 
+#  'http://localhost:5222/api/v1/Tasks' 
+#  -H 'accept: */*' 
+#  -H 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJtdWF0aGUiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9zdXJuYW1lIjoiamFtaWwiLCJleHAiOjE2NzUxMjA4NTUsImlzcyI6IlRhc2tNYW5hZ2VyIiwiYXVkIjoiVGFza01hbmFnZXIifQ.9x_P3jiuImwTzez93ufqy2tdy_XZjHi9EPoTxd_mraI' 
+#  -H 'Content-Type: application/json' 
+#  -d '{
+#  "title": "Task 1",
+#  "startDate": "2023-01-30T23:14:53.763Z",
+#  "endDate": "2023-01-31T23:14:53.763Z"
+#}'
+POST http://localhost:5222/api/v1/Tasks
+accept: */*
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJtdWF0aGUiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9zdXJuYW1lIjoiamFtaWwiLCJleHAiOjE2NzUxMjA4NTUsImlzcyI6IlRhc2tNYW5hZ2VyIiwiYXVkIjoiVGFza01hbmFnZXIifQ.9x_P3jiuImwTzez93ufqy2tdy_XZjHi9EPoTxd_mraI
+Content-Type: application/json
+
+{
+  "title": "Task 1",
+  "startDate": "2023-01-30T23:14:53.763Z",
+  "endDate": "2023-01-31T23:14:53.763Z"
+}
+
+###
+

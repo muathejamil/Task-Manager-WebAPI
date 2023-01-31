@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Lenovo\.nuget\packages\erroror\1.2.1\lib\net6.0\ErrorOr.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aae60ece_002Ddb45_002D4fe1_002D9934_002Da2ce76eefc9d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Create_ReturnsCreatedResult" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA22120D-1F31-4358-9356-55C836511829::net7.0::Task.Api.UnitTest.Controllers.TasksControllerTests.Create_ReturnsCreatedResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA22120D-1F31-4358-9356-55C836511829::net7.0::Task.Api.UnitTest.Controllers.TasksControllerTests.GetAll_ReturnsOkResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA22120D-1F31-4358-9356-55C836511829::net7.0::Task.Api.UnitTest.Controllers.TasksControllerTests.Get_ReturnsOkResult_WithTaskResponse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA22120D-1F31-4358-9356-55C836511829::net7.0::Task.Api.UnitTest.Controllers.TasksControllerTests.Delete_ReturnsOkResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA22120D-1F31-4358-9356-55C836511829::net7.0::Task.Api.UnitTest.Controllers.TasksControllerTests.ImportTasks_ReturnsCreatedResult_WithTaskResponse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA22120D-1F31-4358-9356-55C836511829::net7.0::Task.UnitTests.AuthenticationsControllerTests.Register_ReturnsOkResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA22120D-1F31-4358-9356-55C836511829::net7.0::Task.UnitTests.AuthenticationsControllerTests.Login_ReturnsOkResult&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

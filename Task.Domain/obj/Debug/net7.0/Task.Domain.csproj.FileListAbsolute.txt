@@ -1,0 +1,12 @@
+C:\Users\Lenovo\RiderProjects\Task-Manager\Task\Task.Domain\bin\Debug\net7.0\Task.Domain.deps.json
+C:\Users\Lenovo\RiderProjects\Task-Manager\Task\Task.Domain\bin\Debug\net7.0\Task.Domain.dll
+C:\Users\Lenovo\RiderProjects\Task-Manager\Task\Task.Domain\bin\Debug\net7.0\Task.Domain.pdb
+C:\Users\Lenovo\RiderProjects\Task-Manager\Task\Task.Domain\obj\Debug\net7.0\Task.Domain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\Task-Manager\Task\Task.Domain\obj\Debug\net7.0\Task.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\RiderProjects\Task-Manager\Task\Task.Domain\obj\Debug\net7.0\Task.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\RiderProjects\Task-Manager\Task\Task.Domain\obj\Debug\net7.0\Task.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\Task-Manager\Task\Task.Domain\obj\Debug\net7.0\Task.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\Task-Manager\Task\Task.Domain\obj\Debug\net7.0\Task.Domain.dll
+C:\Users\Lenovo\RiderProjects\Task-Manager\Task\Task.Domain\obj\Debug\net7.0\refint\Task.Domain.dll
+C:\Users\Lenovo\RiderProjects\Task-Manager\Task\Task.Domain\obj\Debug\net7.0\Task.Domain.pdb
+C:\Users\Lenovo\RiderProjects\Task-Manager\Task\Task.Domain\obj\Debug\net7.0\ref\Task.Domain.dll

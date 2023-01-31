@@ -1,0 +1,21 @@
+﻿# curl -X 'POST' 
+#  'http://localhost:5222/api/v1/Tasks/import' 
+#  -H 'accept: */*' 
+#  -H 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJtdWF0aGUiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9zdXJuYW1lIjoiamFtaWwiLCJleHAiOjE2NzUxMjMzODYsImlzcyI6IlRhc2tNYW5hZ2VyIiwiYXVkIjoiVGFza01hbmFnZXIifQ.jQRFjjqpLlk4iFWfFQPx1BeKiKBpIWzqU34NdvGOA20' 
+#  -H 'Content-Type: multipart/form-data' 
+#  -F 'file=tasks - 2 - Sheet1.csv;type=text/csv'
+POST http://localhost:5222/api/v1/Tasks/import
+accept: */*
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJtdWF0aGUiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9zdXJuYW1lIjoiamFtaWwiLCJleHAiOjE2NzUxMjMzODYsImlzcyI6IlRhc2tNYW5hZ2VyIiwiYXVkIjoiVGFza01hbmFnZXIifQ.jQRFjjqpLlk4iFWfFQPx1BeKiKBpIWzqU34NdvGOA20
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="tasks - 2 - Sheet1.csv"
+
+< tasks - 2 - Sheet1.csv
+--WebAppBoundary--
+
+###
+
+
+

@@ -1,0 +1,10 @@
+﻿PUT http://localhost:5222/api/v1/Tasks
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJNdWF0aGUiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9zdXJuYW1lIjoiSmFtaWwiLCJleHAiOjE2NzUwODE4NTMsImlzcyI6IlRhc2tNYW5hZ2VyIiwiYXVkIjoiVGFza01hbmFnZXIifQ.hs-KXpCnInz9Jza-gCPl74fcdsu3QpbxRpkWWlzCUsE
+Accept: application/json
+Content-Type: application/json
+
+{
+  "Title": "Task 1",
+  "StartDate": "2023-01-30T17:00:00",
+  "EndDate": "2023-01-30T19:00:00"
+}

@@ -1,0 +1,11 @@
+﻿
+POST http://localhost:5222/auth/v1/Authentications/register
+Content-Type: application/json
+
+{
+  "firstName": "Muathe",
+  "lastName": "Jamil",
+  "email": "muathe@gmail.com",
+  "password": "123123" 
+}
+
