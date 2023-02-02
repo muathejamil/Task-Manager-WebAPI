@@ -25,6 +25,7 @@ In this project, I have followed the clean architecture model. This architecture
 - EF Core
 - AutoMapper
 - FluentValidation
+- CsvHelper
 
 ## Running the Project
 
